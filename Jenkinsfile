@@ -5,7 +5,7 @@ pipeline{
         stage("Getting code from repo")
         {
             steps{
-                echo 'hhdddddhddjjdjdhhh'
+                echo 'hhdddddhddjjdddddddjdhhh'
             }
         }
     }
